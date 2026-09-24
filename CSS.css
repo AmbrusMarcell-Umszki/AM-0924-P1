@@ -1,22 +1,24 @@
-body{
-background: linear-gradient(
-180deg,
-#081120 0%,
-#102a43 50%,
-#1b4965 100%
-);
-color: white;
+body {
+    background: linear-gradient(180deg,
+            #081120 0%,
+            #102a43 50%,
+            #1b4965 100%);
+    color: white;
 }
-nav{
-    background-image: url(kepek/M4TD.jpg);
+
+nav {
+    background: linear-gradient(180deg,
+            #081120 0%,
+            #102a43 50%,
+            #1b4965 100%);
+    
 }
+
 
 #a {
     background:
-        linear-gradient(
-            rgba(0, 0, 0, 0.5),
-            rgba(0, 0, 0, 0.5)
-        ),
+        linear-gradient(rgba(0, 0, 0, 0.5),
+            rgba(0, 0, 0, 0.5)),
         url("kepek/M4TD.jpg");
 
     background-size: cover;
